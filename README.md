@@ -16,7 +16,7 @@ Criação de back-end para projeto de cardápio digital utilizando Java com o fr
 * Maven
 * Lombok
 
-# Utilização do sistema com o <a href="github.com"><strong>front end</strong></a>
+# Utilização do sistema com o <a href="https://github.com/filipedcon/Projeto-Cardapio-Digital-Front-End"><strong>front end</strong></a>
 
 https://github.com/user-attachments/assets/79f89fbc-21c2-48c5-a789-ed82f9a21cf9
 
