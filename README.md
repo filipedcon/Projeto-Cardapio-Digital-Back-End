@@ -4,7 +4,7 @@ Criação de back-end para projeto de cardápio digital utilizando Java com o fr
 * Boas práticas de programação Java
 * Conceitos de POO
 * Spring Boot e como aproveitar sua eficiência
-* Instalação, utilização de bibliotecas do Spring Boot e como funcionam.
+* Instalação, utilização de bibliotecas no Spring Boot e como funcionam.
 
 # Propriedadaes e dependências
 
